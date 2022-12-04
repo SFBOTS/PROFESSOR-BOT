@@ -56,6 +56,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SFBOTS/PROFESSOR-BOT)
 
+## Deploy to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/L-lJS0?referralCode=Y21jeD)
 ## Commands
 ```
 start - check bot alive
